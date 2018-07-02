@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AIDLExample</string>
+    <string name="write">write</string>
+    <string name="read">read</string>
+</resources>
